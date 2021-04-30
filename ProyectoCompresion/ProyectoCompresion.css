@@ -1,0 +1,65 @@
+
+body{
+    background-image: url("Fondo Lightroom.JPG");
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+
+.head{
+    color: white;
+    font-size: 40px;
+    font-family: "NFS font";
+    margin-right: 40px;
+    letter-spacing: 5px;
+}
+
+
+
+
+
+.cantcil{
+    color: white;
+    font-family: Airstrike;
+    letter-spacing: 1px;
+    font-size: 25px;
+}
+
+
+
+
+
+.cc{
+    color: white;
+    font-family: Airstrike;
+    letter-spacing: 1px;
+    font-size: 25px;
+
+}
+
+
+
+
+
+.calcular{
+    background: goldenrod;
+    font-family: "Ghost Factory";
+    box-sizing: border-box;
+}
+
+
+
+
+.cc input{
+    background: lightcyan;
+    border: none
+}
+
+.cantcil input{
+    background: lightcyan;
+    border: none;
+}
+
